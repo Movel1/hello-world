@@ -1,5 +1,5 @@
-# hello-world
-I want to create an invite for my server
+# UltraVideoDX
+
 We are a sentient movie theater dedicated to providing the best (and sometimes the worst) in anime, movies, and other series to our viewers. 
 
 New, old, obscure, or well-known, there's something for everyone. 
