@@ -7,4 +7,5 @@ New, old, obscure, or well-known, there's something for everyone.
 We have regular weekly streams, as well as 24/7 playlist that can be watched at any time. 
 
 If there's something in particular you want to watch, we're always open to recommendations for the streams.
+
 https://discord.gg/Cqdxnkm
